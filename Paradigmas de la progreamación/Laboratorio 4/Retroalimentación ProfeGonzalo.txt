@@ -1,0 +1,4 @@
+- El post acepta nombre repetidos al momento de etiquetar
+- Sugerencia: por buenas prácticas las funciones no retornan números porque no son claros, si retornan un booleano la funcion debe tenner nombre estilo pregunta
+
+Nota: para este lab se entrega únicamente repositorio e informe, luego el profe citaba y se mostraba la interfaz funcionando, dudas código, implementación javaDoc y algunos compañeros preguntas sobre sus diagramas de diseño y análisis
